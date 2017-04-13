@@ -42,6 +42,12 @@ Lorem ipsum is the industry standard for dummy text, and has been used since the
 
 Many times, you'll be creating a project before your client has finished their approved copy - Lorem Ipsum is a great way to fill in the space in the meantime - just remember to check your Ipsum for profanity before putting it on a client's site.
 
+## Stock Photos
+
+Most stock photos suck. Here's a list of [some that don't](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b).
+
+A personal favorite of mine is [Unsplash Me](https://unsplash.com/).
+
 ## Hosting your prototype
 
 The easiest way to show your prototype to us, a client, or other members of your team is gh-pages. Since you're already using github to source-control your project, it might be wise to simply do your work on the gh-pages branch so that each push deploys your project to a live site.
