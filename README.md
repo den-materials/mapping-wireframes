@@ -27,7 +27,7 @@ The nav bar alone would probably take us an hour to make - but this navbar came 
 
 *It is always a bad idea to copy/paste code.* It increases the risk of human error and cargo cult programming. HOWEVER, the code we're writing now is a prototype - a rough draft. As long as you're making a draft, not a finished project, you can copy/paste components to try them out and rapidly mock up your app design.
 
-Think about the pages you might need for your app, and start making them via copying your files, or chucks of your code, into new files.
+Think about the pages you might need for your app, and start making them via copying your files, or chunks of your code, into new files.
 
 ## Lorem Ipsum 
 
@@ -50,9 +50,9 @@ A personal favorite of mine is [Unsplash Me](https://unsplash.com/).
 
 ## Hosting your prototype
 
-The easiest way to show your prototype to us, a client, or other members of your team is gh-pages. Since you're already using github to source-control your project, it might be wise to simply do your work on the gh-pages branch so that each push deploys your project to a live site.
+The easiest way to show your prototype to us, a client, or other members of your team is `gh-pages`. Since you're already using github to source-control your project, it might be wise to simply do your work on the `gh-pages` branch so that each push deploys your project to a live site.
 
-If you've forgotten how to create new branches or deploy to gh-pages, [check out our previous lesson on it](https://github.com/den-wdi-2/git-branching-and-pages).
+If you've forgotten how to create new branches or deploy to `gh-pages`, [check out our previous lesson on it](https://github.com/den-materials/git-branching-and-pages).
 
 ## Start prototyping!
 
