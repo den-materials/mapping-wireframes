@@ -12,16 +12,14 @@ Today we'll be working with a Bootstrap sample project to rapidly prototype our 
 
 Bootstrap has a wide variety of pre-built components, for both CSS and JS:
 
-- [CSS](http://getbootstrap.com/css/)
-- [Components](http://getbootstrap.com/components/)
-- [JS](http://getbootstrap.com/javascript/)
+- [Components](https://getbootstrap.com/docs/4.0/components/)
 
 These pre-fab components are great to cherry-pick and place in your project as your rapidly prototype. For example, pull down the sample-project in this repo and take a look:
 
 ![sample-project](img/sample-project.png)
 
 The nav bar alone would probably take us an hour to make - but this navbar came directly from Bootstrap's component list:
-[http://getbootstrap.com/components/#navbar](http://getbootstrap.com/components/#navbar)
+[https://getbootstrap.com/docs/4.0/components/navbar/](https://getbootstrap.com/docs/4.0/components/navbar/)
 
 ## The Copy/Paste Ban has been lifted
 
