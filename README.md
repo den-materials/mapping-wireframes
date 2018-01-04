@@ -1,5 +1,7 @@
 # Mapping Wireframes
 
+<!-- announce non-tech lightning talks -->
+
 ## But Why?
 
 So far, we've mapped out our projects on paper, or in some cases in design software like Sketch - this is great, but the result is far removed from the programatic entity that your app will one day be.
