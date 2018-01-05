@@ -48,7 +48,9 @@ Most stock photos suck. Here's a list of [some that don't](https://medium.com/@d
 
 A personal favorite of mine is [Unsplash Me](https://unsplash.com/).
 
-## Hosting your prototype
+## Testing and Hosting your prototype
+
+To run locally, you can run simple front end code by running `python -m SimpleHTTPServer` from within your project on the command line. This only runs front end code, not node, database stuff, etc.
 
 The easiest way to show your prototype to us, a client, or other members of your team is `gh-pages`. Since you're already using github to source-control your project, it might be wise to simply do your work on the `gh-pages` branch so that each push deploys your project to a live site.
 
